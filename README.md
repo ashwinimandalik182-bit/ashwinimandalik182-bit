@@ -2,7 +2,7 @@
 <i> Welcome to my small corner of GitHub ✨</i>
 A place where every line of code tells a part of my learning journey. ☕💻 </i>
 
-# My Learning Journey 🚀
+## My Learning Journey 🚀
 
 This repository is created to build a strong foundation in Data Science and Data Structures & Algorithms.
 
